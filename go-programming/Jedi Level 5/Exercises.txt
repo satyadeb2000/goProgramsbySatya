@@ -1,0 +1,4 @@
+•	Exercise# 1: https://play.golang.org/p/huO21Qu5wa1 
+•	Exercise# 2: https://play.golang.org/p/18emyLL8o8V 
+•	Exercise# 3: https://play.golang.org/p/1pUVzwo41U8 
+•	Exercise# 4: https://play.golang.org/p/i3vECaw-Xsj 
