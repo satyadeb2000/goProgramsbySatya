@@ -1,0 +1,2 @@
+Exercise 1 - https://play.golang.org/p/8V2lUu26D86 
+Exercise 2 - https://play.golang.org/p/mqZXU8rwAHa
