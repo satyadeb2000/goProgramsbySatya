@@ -3,5 +3,5 @@ Exercise 2 - https://play.golang.org/p/mqZXU8rwAHa
 Exercise 3 - https://play.golang.org/p/wzQCkOUKNs9
 Exercise 4 - https://play.golang.org/p/myAVONcI07p
 Exercise 5 - https://play.golang.org/p/re8aOGsDste 
-Exercise 6 - 
+Exercise 6 - https://play.golang.org/p/AqXI5O-B2gk
 
